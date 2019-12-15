@@ -1,4 +1,4 @@
-/* Machine Coding of SplitWise by TUSHAR ANAND, KIIT DEEMED TO BE UNIVERISTY*/
+/* Machine Coding of SplitWise by PRADEEP KUMAR, KIIT DEEMED TO BE UNIVERISTY*/
 
 /* Importing Necessary Packages*/
 
